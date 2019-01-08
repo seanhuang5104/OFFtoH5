@@ -1,6 +1,11 @@
 # OFFtoH5
 Convert ModelNet .OFF files to .h5 files for PointCoud project
 
+IF YOU ARE LOOKING FOR OFFICIAL WAY TO CONVERT THE FILE HERE IS THE LINK , GO TO FILE 'modelnet_dataset.py' it explains everything.
+https://github.com/charlesq34/pointnet2.git
+Below is my personal record of finding a way to convert before realizing the link above.
+
+
 PointNet project by Charles R. Qi, Hao Su, Kaichun Mo, Leonidas J. Guibas from Stanford University.
 https://github.com/charlesq34/pointnet
 
